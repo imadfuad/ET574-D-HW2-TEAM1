@@ -1,4 +1,4 @@
 ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1,task,Task A,closed,Create repository and initial files,Imad,Imad,Feb-10,Feb-07,Feb-07,Completed
-2,task,Task B,closed,Add Task B print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
-3,task,Task C,closed,Add Task C print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
+1,task,b0ed91a,closed,Create repository and initial files,Imad,Imad,Feb-10,Feb-07,Feb-07,Completed
+2,task,b0ed91a,closed,Add Task B print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
+3,task,b0ed91a,closed,Add Task C print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
