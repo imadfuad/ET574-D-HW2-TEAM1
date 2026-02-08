@@ -2,4 +2,4 @@ ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,b0ed91a,closed,Create repository and initial files,Imad,Imad,Feb-10,Feb-07,Feb-07,Completed
 2,task,b0ed91a,closed,Add Task B print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
 3,task,b0ed91a,closed,Add Task C print statement,Imad,Imad,Feb-10,Feb-08,Feb-08,Completed
-4,issue,,open,Team member did not complete assigned HW2 tasks,Imad,Imad,Feb-08,Feb-07,,No response or commits from team member
+4,issue,,open,Team member did not complete assigned HW2 tasks,Imad,Imad,Feb-08,Feb-07,,No response or commits from team member.
