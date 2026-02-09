@@ -1,3 +1,6 @@
 print("Imad Task A")
 print("Imad Task B")
 print("Imad Task C")
+print("Singh Task A")
+print("Singh Task B")
+print("Singh Task C")
